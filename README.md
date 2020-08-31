@@ -5,8 +5,14 @@
 
 #### 笔记目录
 1. [JAVA学习路线](https://gitee.com/FLHKING/learning-notes/tree/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
-. [JAVA路线](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/JAVAX%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
-2. [Linux学习笔记](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Linux%E7%AC%94%E8%AE%B0/Shell%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+- [JAVA路线](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/JAVAX%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
+2. [Linux笔记](https://gitee.com/FLHKING/learning-notes/tree/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
+- [ Shell学习笔记](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Linux%E7%AC%94%E8%AE%B0/Shell%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+3. [MarkDown笔记](https://gitee.com/FLHKING/learning-notes/tree/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
+- [markdown基本语法](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/MarkDown%E7%AC%94%E8%AE%B0/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.md)
+4. [MySql笔记](https://gitee.com/FLHKING/learning-notes/tree/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
+- [mysql基础](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/MySql%E7%AC%94%E8%AE%B0/mysql%E5%9F%BA%E7%A1%80.md)
+- [mysql高级](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/MySql%E7%AC%94%E8%AE%B0/mysql%E9%AB%98%E7%BA%A7.md)
 
 #### 参与贡献
 
