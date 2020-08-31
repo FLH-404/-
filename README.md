@@ -3,21 +3,8 @@
 #### 介绍
 学习笔记
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 笔记目录
+1. [JAVA学习路线](https://gitee.com/FLHKING/learning-notes/tree/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
 
 #### 参与贡献
 
