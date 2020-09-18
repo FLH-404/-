@@ -6,6 +6,7 @@
 #### 最强教程
 1. Java学习[JavaFamily](https://github.com/AobingJava/JavaFamily)
 2. 算法学习[简单总结](https://github.com/luxiangqiang/Blog)
+3. 狂神说java[教程](https://gitee.com/kuangstudy/openclass?_from=gitee_search)
 
 #### 笔记目录
 1. [JAVA学习路线](https://gitee.com/FLHKING/learning-notes/tree/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
