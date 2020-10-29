@@ -4,10 +4,10 @@
 学习笔记
 
 #### 最强教程
-##### 1. Java学习[JavaFamily](https://github.com/AobingJava/JavaFamily)
-2. 算法学习[简单总结](https://github.com/luxiangqiang/Blog)
-3. 狂神说java[教程](https://gitee.com/kuangstudy/openclass?_from=gitee_search)
-4. JVM笔记[JVM](https://gitee.com/moxi159753/LearningNotes/tree/master/JVM)
+1. [Java学习](https://github.com/AobingJava/JavaFamily)
+2. [算法学习](https://github.com/luxiangqiang/Blog)
+3. [狂神说java](https://gitee.com/kuangstudy/openclass?_from=gitee_search)
+4. [JVM笔记](https://gitee.com/moxi159753/LearningNotes/tree/master/JVM)
 
 #### 必读书籍
 1. 《Java 编程思想》[《On Java 8》](https://github.com/LingCoder/OnJava8)
