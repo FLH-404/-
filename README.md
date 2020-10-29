@@ -31,7 +31,7 @@
 5. [JUC深入（）](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
 6. [MySql基础+高级](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
 7. [Linux学习](https://www.bilibili.com/video/BV1mW411i7Qf?from=search&seid=15890104071627216264)
-##### 视频笔记
+#### 视频笔记
 1. [笔记1、3、6](https://pan.baidu.com/s/1Kg7UUpO3wwALX6x28cWA7A#list/path=%2F&parentPath=%2F)
 2. [笔记2、4](https://gitee.com/kuangstudy/openclass?_from=gitee_search)
 
