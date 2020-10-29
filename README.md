@@ -11,6 +11,7 @@
 
 #### 必读书籍
 1. 《Java 编程思想》[《On Java 8》](https://github.com/LingCoder/OnJava8)
+2. [PDF书籍大全](https://pymlovelyq.github.io/posts/ace53344/)
 #### 笔记目录
 1. [JAVA学习路线](https://gitee.com/FLHKING/learning-notes/tree/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
 - [JAVA路线](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/JAVAX%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.md)
