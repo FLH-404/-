@@ -24,7 +24,7 @@
 
 #### 视频
 1. JAVA基础+高级
-. [video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
+* [video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
 1. JAVA基础+高级[video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
 1. JAVA基础+高级[video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
 1. JAVA基础+高级[video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
