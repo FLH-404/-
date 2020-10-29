@@ -26,22 +26,24 @@
 1. JAVA基础+高级
 * [video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
 * [note](http://)
-1. JAVA基础+高级
+2. JVM入门
+* [video](https://www.bilibili.com/video/BV1iJ411d7jS?from=search&seid=10293549069688526810)
+* [note](http://)
+3. JVM深入
+* [video](https://www.bilibili.com/video/BV1PJ411n7xZ)
+* [note](http://)
+4. JUC入门
+* [video](https://www.bilibili.com/video/BV1B7411L7tE?from=search&seid=3044505469816031689)
+* [note](http://)
+5. JUC深入
 * [video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
 * [note](http://)
-1. JAVA基础+高级
+6. MySql基础+高级
 * [video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
 * [note](http://)
-1. JAVA基础+高级
-* [video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
+7. Linux学习
+* [video](https://www.bilibili.com/video/BV1mW411i7Qf?from=search&seid=15890104071627216264)
 * [note](http://)
-1. JAVA基础+高级
-* [video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
-* [note](http://)
-1. JAVA基础+高级
-* [video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
-* [note](http://)
-
 
 
 #### 码云特技
