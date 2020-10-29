@@ -23,27 +23,17 @@
 - [mysql高级](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/MySql%E7%AC%94%E8%AE%B0/mysql%E9%AB%98%E7%BA%A7.md)
 
 #### 视频
-1. JAVA基础+高级
-* [video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
-* [note](http://)
-2. JVM入门
-* [video](https://www.bilibili.com/video/BV1iJ411d7jS?from=search&seid=10293549069688526810)
-* [note](http://)
-3. JVM深入
-* [video](https://www.bilibili.com/video/BV1PJ411n7xZ)
-* [note](http://)
-4. JUC入门
-* [video](https://www.bilibili.com/video/BV1B7411L7tE?from=search&seid=3044505469816031689)
-* [note](http://)
-5. JUC深入
-* [video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
-* [note](http://)
-6. MySql基础+高级
-* [video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
-* [note](http://)
-7. Linux学习
-* [video](https://www.bilibili.com/video/BV1mW411i7Qf?from=search&seid=15890104071627216264)
-* [note](http://)
+1. [JAVA基础+高级](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
+2. [JVM入门](https://www.bilibili.com/video/BV1iJ411d7jS?from=search&seid=10293549069688526810)
+3. [JVM深入](https://www.bilibili.com/video/BV1PJ411n7xZ)
+4. [JUC入门](https://www.bilibili.com/video/BV1B7411L7tE?from=search&seid=3044505469816031689)
+5. [JUC深入](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
+6. [MySql基础+高级](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
+7. [Linux学习](https://www.bilibili.com/video/BV1mW411i7Qf?from=search&seid=15890104071627216264)
+##### 视频笔记
+1. [笔记1、5、6](https://pan.baidu.com/s/1Kg7UUpO3wwALX6x28cWA7A#list/path=%2F&parentPath=%2F)
+
+
 
 
 #### 码云特技
