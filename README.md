@@ -22,12 +22,9 @@
 - [mysql基础](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/MySql%E7%AC%94%E8%AE%B0/mysql%E5%9F%BA%E7%A1%80.md)
 - [mysql高级](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/MySql%E7%AC%94%E8%AE%B0/mysql%E9%AB%98%E7%BA%A7.md)
 
-#### 参与贡献
+#### 视频
+JAVA基础+高级[video](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
 
 
 #### 码云特技
