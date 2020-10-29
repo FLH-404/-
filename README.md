@@ -3,7 +3,7 @@
 #### 介绍
 学习笔记
 
-#### 最强教程
+#### 学习路线
 1. [Java学习](https://github.com/AobingJava/JavaFamily)
 2. [算法学习](https://github.com/luxiangqiang/Blog)
 
