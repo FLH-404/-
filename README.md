@@ -38,4 +38,4 @@
 
 
 #### 学习脑图
-![java学习路线](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.png "在这里输入图片标题")
+![java学习路线](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.png)
