@@ -6,8 +6,7 @@
 #### 最强教程
 1. [Java学习](https://github.com/AobingJava/JavaFamily)
 2. [算法学习](https://github.com/luxiangqiang/Blog)
-3. [狂神说java](https://gitee.com/kuangstudy/openclass?_from=gitee_search)
-4. [JVM笔记](https://gitee.com/moxi159753/LearningNotes/tree/master/JVM)
+
 
 #### 必读书籍
 1. 《Java 编程思想》[《On Java 8》](https://github.com/LingCoder/OnJava8)
@@ -22,6 +21,7 @@
 4. [MySql笔记](https://gitee.com/FLHKING/learning-notes/tree/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0)
 - [mysql基础](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/MySql%E7%AC%94%E8%AE%B0/mysql%E5%9F%BA%E7%A1%80.md)
 - [mysql高级](https://gitee.com/FLHKING/learning-notes/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/MySql%E7%AC%94%E8%AE%B0/mysql%E9%AB%98%E7%BA%A7.md)
+5. [JVM笔记](https://gitee.com/moxi159753/LearningNotes/tree/master/JVM)
 
 #### 视频
 1. [JAVA基础+高级](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
@@ -33,7 +33,7 @@
 7. [Linux学习](https://www.bilibili.com/video/BV1mW411i7Qf?from=search&seid=15890104071627216264)
 ##### 视频笔记
 1. [笔记1、3、6](https://pan.baidu.com/s/1Kg7UUpO3wwALX6x28cWA7A#list/path=%2F&parentPath=%2F)
-
+2. [笔记2、4](https://gitee.com/kuangstudy/openclass?_from=gitee_search)
 
 
 
