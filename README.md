@@ -11,7 +11,7 @@
 #### 必读书籍
 * [图书库](https://gitee.com/veal98/CS-Wiki)
 1. 《Java 编程思想》[《On Java 8》](https://github.com/LingCoder/OnJava8)
-2. [PDF书籍大全](https://pymlovelyq.github.io/posts/ace53344/)
+2. [PDF书籍大全](//https://pymlovelyq.github.io/posts/ace53344/)
 3. [《Java 并发编程实战》](http://)
 4. [《深入理解Java虚拟机》](http://)
 5. [《高性能MySQL》](http://)
