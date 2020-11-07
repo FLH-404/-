@@ -33,7 +33,7 @@
 2. [JVM入门（JVM快速入门篇）](https://www.bilibili.com/video/BV1iJ411d7jS?from=search&seid=10293549069688526810)
 3. [JVM深入（java虚拟机详解，jvm从入门到精通）](https://www.bilibili.com/video/BV1PJ411n7xZ)
 4. [JUC入门（JUC并发编程最新版通俗易懂）](https://www.bilibili.com/video/BV1B7411L7tE?from=search&seid=3044505469816031689)
-5. [JUC深入（）](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
+5. [JUC深入（Java并发编程）](https://www.bilibili.com/video/BV1jE411j7uX)
 6. [MySql基础+高级](https://www.bilibili.com/video/BV12b411K7Zu?from=search&seid=13782847219814814889)
 7. [Linux学习](https://www.bilibili.com/video/BV1mW411i7Qf?from=search&seid=15890104071627216264)
 8. [JAVA版数据结构](https://www.bilibili.com/video/BV1E4411H73v)
