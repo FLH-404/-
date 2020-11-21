@@ -6,7 +6,7 @@
 #### 学习路线
 1. [Java学习](https://github.com/AobingJava/JavaFamily)
 2. [算法学习](https://github.com/luxiangqiang/Blog)
-
+3. [JAVA基础笔记](https://blog.csdn.net/qq_41918166/article/list/2)
 
 #### 必读书籍
 * [图书库](https://veal98.gitee.io/cs-wiki/#/README)
