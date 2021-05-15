@@ -11,7 +11,7 @@
 3. [JAVA基础笔记](https://blog.csdn.net/qq_41918166/article/list/2)
 
 #### 必读书籍
-* [图书库](https://veal98.gitee.io/cs-wiki/#/README)
+* [CS Wiki知识点](https://veal98.gitee.io/cs-wiki/#/README)
 1. 《Java 编程思想》[《On Java 8》](https://github.com/LingCoder/OnJava8)
 2. [PDF书籍大全](//https://pymlovelyq.github.io/posts/ace53344/)
 3. [《Java 并发编程实战》](http://)
